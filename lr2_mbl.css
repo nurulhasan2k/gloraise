@@ -1,0 +1,55 @@
+.lr2_header_part h1{
+  font-family: poppins_med;
+  font-size: 22px;
+  margin-top: -14px;
+}
+.lr2_header_part h3{
+  font-size: 15px;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+.lr2_videoplayer_part iframe{
+  height: 340px;
+}
+.lr2_videoplayer_part h4{
+  font-size: 15px;
+margin-top: 16px;
+}
+.lr2_pills>li>a{
+  padding: 5px 0px;
+font-size: 12px;
+margin:0px 0px;
+}
+.col_2{
+  width: 30%;
+  float: left;
+}
+.col_5{
+  width: 70%;
+  float: left;
+}
+.lr2_pro_info_part1 h4 {
+    line-height: 1.1;
+    font-size: 15px;
+}
+.lr2_pro_info_part1 .pop_bold{
+  font-family: poppins_extBold;
+}
+.lr2_pro_info_part1 small{
+  font-size: 38%;
+}
+.container-fluid{
+  padding-bottom: 15px;
+}
+.car_mar{
+  margin: 0px 30px;
+}
+.courses_info_box_mbl h4{
+  font-size: 9px !important;
+  font-weight: normal;
+}
+.courses_info_box_mbl p{
+  font-size: 8px !important;
+  margin-left: 5px !important;
+  margin-top: 12px;
+}

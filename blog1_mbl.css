@@ -1,0 +1,107 @@
+
+.logo2{
+  margin-bottom: -30px;
+}
+.header_part_1 h1{
+  position: relative;
+    top: 60px;
+    margin-top: 44px;
+        font-size: 38px;
+}
+.head_title_mid{
+   font-size: 64px;
+}
+.sec_2_main_comp{
+  padding-top: 0px;
+}
+.sort_list_1{
+  float: left;
+}
+.sort_list_2{
+      margin-top: 10px;
+  margin-left: 54px;
+  float: left;
+}
+.sort_list_3{
+      margin-top: 15px;
+  margin-left: 73px;
+  float: left;
+}
+.sort_list_2_in{
+  float: left;
+}
+.sort_list_2_in_2{
+  width: 100%;
+  float: left;
+}
+.sort_list_1 p{
+      margin: 5px -9px;
+      font-size: 15px;
+}
+.sort_list_1 form{
+  width: 65%;
+}
+.sort_list_2 p{
+  margin: 5px -11px 0px;
+  font-size: 15px;
+}
+.sort_list_3 p{
+  margin: 5px -11px 0px;
+  font-size: 15px;
+}
+.sort_list_2_in{
+  width: 100%;
+}
+.dropdown{
+  float: left;
+}
+.term_search{
+  font-size: 15px;
+}
+.form-control{
+  height: 30px;
+}
+.dropdown-toggle{
+  font-size: 15px;
+  margin-left: 15px;
+}
+.ddm2{
+  left: 9%;
+}
+.dropdown-menu{
+  left:10%;
+}
+.exp_art_cat_mbl{
+  margin: 25px 0px 0px;
+color: #999;
+font-family: poppins_semi;
+font-size: 12px;
+letter-spacing: 1.1px;
+}
+.main_block_mbl{
+      margin: 22px 5px;
+}
+.info_block_mbl{
+  margin: 0px 20px;
+  font-family: poppins_med;
+
+}
+.h3, h3{
+  font-size: 15px;
+}
+.tab_scroller {
+    background: #eaeeef;
+    height: 7px;
+    width: 40%;
+    margin: auto;
+    border-radius: 25px;
+}
+.glyp_arrows{
+  margin-left: -22px;
+}
+.main_block_mbl{
+  border-radius: 12px;
+}
+.footer_comp  small{
+  width: 54%;
+}

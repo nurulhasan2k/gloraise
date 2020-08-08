@@ -1,0 +1,133 @@
+.imgimg img{
+  width: 195px;
+  margin: auto;
+display: block;
+position: relative;
+right: 35px;
+}
+.imgimg h1{
+  text-align: center;
+position: relative;
+right: 35px;
+font-family: poppins_bold;
+}
+.lr1_mbl_hr_1{
+  margin-top: 20px;
+margin-bottom: 20px;
+border: 0;
+border-top: 3px solid #9fd9ee;
+width: 30%;
+/* margin-right: 173px; */
+position: relative;
+right: 33px;
+}
+.lr1_mbl_sel_cat{
+  letter-spacing: 2px;
+    font-family: poppins_med;
+    color: #999;
+    /* margin: auto; */
+    display: block;
+    position: relative;
+    left: 80px;
+width: 53%;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.nav-tabs>li>a{
+  font-size: 11px;
+  margin: 0px 0px;
+}
+.nav-tabs>li.active>a{
+  color: #000;
+    background: transparent;
+    border-bottom: 4px solid #55c2ff;
+    //border: 0px 0px 4px 0px solid #55c2ff;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.nav-tabs>li.active>a:hover{
+  color: #000;
+    background: transparent;
+    border-bottom: 4px solid #55c2ff;
+    //border: 0px 0px 4px 0px solid #55c2ff;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+}
+.tab_scroller{
+  background: lightgray;
+height: 7px;
+width: 46%;
+margin: auto;
+border-radius: 25px;
+}
+.progress_bar{
+  background: lightgray;
+height: 6px;
+border-radius: 10px;
+margin-top: -4px;
+width: 80%;
+margin-right: auto;
+margin-left: auto
+}
+.main_block_mbl{
+  margin: 36px 6px;
+}
+.info_block_mbl {
+    margin: 0px 15px;
+}
+.info_block_mbl h3{
+  font-family: poppins_med;
+}
+.info_block_mbl small{
+  font-size: 71%;
+  font-family: poppins;
+}
+.mbl_nav_tab div p {
+    font-size: 11px;
+    color: black;
+    line-height: 1.2;
+    margin-bottom: 20px;
+    font-family: poppins_bold;
+}
+.sal h1{
+  font-size: 12px;
+    font-family: poppins_semi;
+    color: #999;
+    letter-spacing: 1.1px;
+    padding-bottom: 20px;
+}
+.container-fluid{
+  padding-bottom: 24px;
+border-bottom: 1px solid #999;
+}
+.infinity{
+  width: 65px;
+  margin-bottom: -10px;
+}
+.unlimitd_access{
+  font-size: 15px;
+}
+.pro_btn{
+  padding: 0px 6px;
+}
+.unlimitd_access_details{
+  color: black;
+font-size: 15px;
+line-height: 0.1;
+
+
+font-family: poppins_med;
+}
+.unlimitd_access_details_div{
+  width: 44%;
+  margin-bottom: 45px;
+}
+.nav-tabs>li.active>a:focus{
+  background: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 4px solid #55c2ff;
+}

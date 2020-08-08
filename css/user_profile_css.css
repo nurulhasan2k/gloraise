@@ -1,0 +1,498 @@
+@font-face {
+  font-family: poppins_bold;
+  src: url(../ext_fonts/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: poppins_SemiBold;
+  src: url(../ext_fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: poppins_reg;
+  src: url(../ext_fonts/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: poppins_med;
+  src: url(../ext_fonts/Poppins-Medium.ttf);
+}
+.container_min{
+  font-size: 12px;
+  width: 75%;
+}
+.land_page_logo{
+  width: 150px;
+}
+.links_navbar{
+  color:#000;
+  font-family: poppins_bold;
+  border-bottom: 5px solid #a5e8ff;
+}
+.links_navbar:hover{
+  color: #00A4FF;
+}
+@media only screen and (min-width: 992px){
+  .navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 25px;
+    margin-left: 20px;
+  }
+}
+.signin_up_btn{
+  background: #00A4FF;
+  border-radius: 25px;
+  color: #fff;
+  font-family: poppins_bold;
+  padding: 5px 20px;
+  margin-top: 6px;
+  margin-left: 17px;
+  border: 1px solid #00A4FF;
+}
+.signin_up_btn:hover{
+  background:#fff;
+  color: #00A4FF;
+}
+.margin_class_nav{
+  margin-top: 40px;
+  padding-bottom: 15px;
+}
+.mid_part{
+  background: #FAFFFF;
+  padding-bottom: 35px;
+}
+.social_logos{
+  margin-right: 18px;
+  width:25px;
+}
+.facebook_logo{
+  width:13px;
+}
+.twitter_logo{
+  width:17px;
+}
+.website_icon{
+  width: 23px;
+}
+.social_part{
+  border-right: 1px solid #999;
+  width: 26%;
+  float: left;
+  margin-right: 20px;
+}
+.location_icon{
+  width: 12px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 12px;
+}
+.in_mid_part2{
+  font-family: poppins_reg;
+  margin-left:10px;
+}
+.btn_follow{
+  //margin-top:50px;
+  background: transparent;
+  border: 2px solid #00A4FF;
+  border-radius: 25px;
+  color: #00A4FF;
+  font-family: poppins_bold;
+  padding: 5px 20px;
+  float: right;
+}
+.btn_follow:hover{
+  color: #FAFFFF;
+  background: #00A4FF;
+}
+.user_profile_pic{
+  margin-top:30px;
+}
+.container_1{
+  padding-top:50px;
+}
+.author_pic{
+  border-radius: 50%;
+position: absolute;
+bottom: 58px;
+left: 233px;
+width: 71px;
+}
+.pic_div{
+  position: relative;
+}
+.business_pic{
+  height: 215px;
+width: 100%;
+border-bottom-right-radius: 165px;
+}
+.btn_invest_now{
+  background: #00A4FF;
+  color: #FAFFFF;
+  font-family: poppins_bold;
+  border-radius: 25px;
+  padding: 5px 16px;
+  margin: 25px 65px;
+  border:1px solid #00A4FF;
+}
+.btn_invest_now:hover{
+  color: #00A4FF;
+  background:#FAFFFF;
+}
+.h4_1{
+  font-family: poppins_bold;
+}
+.small_1{
+  font-family: poppins_med;
+  text-align: justify;
+}
+.main_div{
+  width: 90%;
+  border:1px solid #999;
+  border-top: none;
+}
+.info_div{
+  //margin-top: 10px;
+margin-left: 30px;
+margin-right: 25px;
+text-align: justify;
+}
+
+.projects_link{
+  color: #999;
+  margin-right: 35px;
+  margin-left: 20px;
+}
+.pp_bold{
+  font-family: poppins_bold;
+  color: #000;
+}
+
+.projects_link:hover{
+  color:#00A4FF;
+  text-decoration: none;
+}
+.tab-content{
+  margin-top: 30px;
+}
+.hr_1{
+  margin-top: 10px;
+  margin-bottom: 0px;
+  border-top: 9px solid #00A4FF;
+}
+.hr_2{
+  border-top: 5px solid #999;
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+.investments_link{
+  color: #000;
+  font-family: poppins_bold;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.pp_reg{
+  font-family: poppins_reg;
+  color: #999;
+}
+.investments_link:hover{
+  color:#00A4FF;
+  text-decoration: none;
+}
+.btn_view_more{
+  background: transparent;
+  border: 1px solid #cccccc;
+  border-radius: 25px;
+  font-family: poppins_reg;
+  color: #cccccc;
+  padding: 7px 30px;
+  display: block;
+  margin: 50px 0px;
+}
+.btn_view_more:hover{
+  color: #FAFFFF;
+  background: #cccccc;
+}
+.container_2{
+  margin-top:50px;
+}
+.hr_1_add{
+  margin-top: 11.5px;
+  margin-bottom: 0px;
+  border-top: 5px solid #999;
+}
+#hr_1_1{
+  display:none;
+}
+#hr_2_2{
+  display: none;
+}
+#hr_1_1_mbl{
+  display:none;
+}
+#hr_2_2_mbl{
+  display: none;
+}
+.footer_p{
+  font-family: poppins_bold;
+}
+.footer_small{
+  font-family: poppins_reg;
+  color:#999;
+}
+.dropd{
+  margin-left: 48px;
+  margin-right: 69px;
+  background: transparent;
+  width:170px;
+  border-radius:7px;
+  border:none;
+  border:1.5px solid #999999;
+  padding:0px;
+  text-align:left;
+  padding:4px 10px;
+  margin-top:-65px;
+  font-size:17px;
+}
+
+.dropd img{
+  margin-left:35px;
+  width:20px;
+  height:20px;
+  filter: invert(65%) sepia(0%) saturate(0%) hue-rotate(166deg) brightness(94%) contrast(91%);
+}
+.dropdown-toggle:after { content: none; }
+.dropd0 img{
+  margin-left: 75px;
+}
+.dropdown-menu{
+  //margin-left: 50px;
+  //margin-top: -25px;
+}
+.dropdown{
+  font-family: poppins_reg;
+}
+.footer{
+  padding:70px;
+}
+@media only screen and (min-width: 992px){
+  .col-lg-8{
+    max-width: 60.666667%;
+  }
+}
+.mbl_link{
+  padding:0px;
+  font-family: poppins_reg;
+  color:#000;
+}
+.mbl_link:hover{
+  color: #00A4FF;
+}
+.navbar_mbl_1{
+  border-top:1px solid #000;
+  border-bottom:1px solid #000;
+  background: #FAFFFF;
+}
+.user_profile_pic_mbl{
+  //width: 50px;
+  margin: 38px 0px;
+}
+@media only screen and (max-width:991px){
+  .btn_follow{
+    font-size:10px;
+  }
+  .in_mid_part2_1{
+    border-bottom: 1px solid #999;
+  }
+  .business_pic{
+    height: 110px;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  .main_div{
+    width: 90%;
+    border: none;
+    border-top: none;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 0px lightgrey;
+    margin-left: 6px;
+  }
+  .author_pic{
+    border-radius: 50%;
+    position: absolute;
+    bottom: 11px;
+    left: 83px;
+    width: 45px;
+  }
+  .btn_invest_now{
+    background: #00A4FF;
+    color: #FAFFFF;
+    font-family: poppins_bold;
+    border-radius: 15px;
+    padding: 5px 0px;
+    margin: 25px 5px;
+    border: 1px solid #00A4FF;
+  }
+  .footer_p{
+    margin-top: 25px;
+  }
+  .dropdown{
+    margin-top: 62px;
+  }
+  .dropd{
+    margin-left: 0px;
+    width: 147px;
+  }
+  .dropd_1 img{
+    margin-left: 10px;
+  }
+  .dropd0 img{
+    margin-left: 55px;
+  }
+}
+body{
+  line-height: 1;
+}
+.social_part_1{
+  margin: 15px 0px;
+}
+.container_5{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.mid_part_mbl{
+  background: #FAFFFF;
+}
+.nav_pills_mbl{
+  margin-top: 30px;
+}
+.footer_1_mbl{
+  border-top: 1px solid #000;
+}
+.container_7{
+  padding:10px 0px;
+}
+.footer_logo{
+  width: 44%;
+  margin: auto;
+}
+.footer_mbl{
+  padding-bottom: 15px;
+}
+@media only screen and (max-width:411px) and (min-width:361px) {
+  .nav_pills_mbl{
+    margin-left: 20px;
+  }
+  .tab-content{
+    margin-left: 25px;
+  }
+  .btn_invest_now{
+    margin: 25px 12px;
+  }
+  .footer_mbl{
+    margin-left: 40px;
+  }
+}
+.cover_pic_prog{
+  height: 8px;
+    background: lightgray;
+    margin: 0px 30px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 34px;
+}
+.completed_cover_pic_prog{
+  height: 100%;
+background: linear-gradient(to right, #CC4614, #FF9040);
+border-radius: 20px;
+width: 75%;
+}
+.favicon{
+  width: 30px;
+position: relative;
+bottom: 45px;
+left: 20px;
+}
+.currency_edit{
+  position: relative;
+left: 841px;
+bottom: 64px;
+color: #999;
+font-size: 12px;
+}
+.lang_edit{
+  position: relative;
+left: 485px;
+bottom: 64px;
+color: #999;
+font-size: 12px;
+}
+.dek_nav_pills{
+  margin-left: 15px;
+}
+.dek_nav_pills .nav-link{
+  border-radius: 0px;
+color: #999;
+font-family: poppins_reg;
+font-size: 18px;
+    border-bottom: 3px solid #999;
+}
+.dek_nav_pills .nav-link.active{
+  background: transparent;
+    color: #000;
+    font-family: poppins_bold;
+    border-bottom: 6px solid #00a4ff;
+    padding-bottom: 6px;
+}
+.in_mid_part3{
+  margin-left: 58px;
+}
+.in_mid_part2_1 p{
+  line-height: 1.2;
+  font-size: 17px;
+}
+.pro_mail_2{
+  position: relative;
+  top: 5px;
+}
+.loc_info_2{
+  margin-top: 30px;
+}
+.small_1{
+  font-family: poppins_reg;
+
+font-weight: normal;
+font-size: 75%;
+}
+.btn_invest_now{
+  padding: 4px 13px;
+  font-size: 12px;
+}
+.foot_drops p{
+  font-size: 13px;
+font-family: poppins_reg;
+color: #999;
+}
+.foot_drops .dropdown-toggle{
+  border-radius: 8px;
+
+border: 1px solid #999;
+
+background: transparent;
+
+padding: 4px 15px;
+}
+.dropdown-menu{
+  border-top-left-radius: 0px;
+border-top-right-radius: 0px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+border: 1px solid #999;
+font-family: poppins;
+}
+.dropdown-menu>li>a{
+  margin:0px 10px;
+  border-radius: 25px;
+}
+.dropdown-menu>li>a:hover{
+  color: #fff;
+  background: #00A4FF;
+}

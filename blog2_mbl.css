@@ -1,0 +1,51 @@
+.logo2{
+  margin-bottom: 285px;
+  width: 128px;
+}
+.art_title_lines{
+  font-size: 17px;
+    margin: 7px 0px;
+    font-family: poppins_med;
+}
+.blog2_art_main{
+  width: 100%;
+}
+.auth_name{
+  margin-bottom: 15px;
+font-size: 15px;
+margin-top: 18px;
+}
+.article_title_sec h4{
+  font-size: 15px;
+line-height: 0.9;
+}
+.info_block_mbl{
+  margin: 0px 20px;
+  font-family: poppins_med;
+
+}
+.h3, h3{
+  font-size: 15px;
+}
+.exp_art_cat_mbl{
+  margin: 25px 0px 0px;
+color: #999;
+font-family: poppins_semi;
+font-size: 12px;
+letter-spacing: 1.1px;
+}
+.tab_scroller {
+    background: #eaeeef;
+    height: 7px;
+    width: 40%;
+    margin: auto;
+    border-radius: 25px;
+}
+.footer_comp small{
+    width: 54%;
+      padding: 25px 0px;
+}
+.header_main_comp{
+  padding-top: 0px;
+  margin-top: 0px;
+}

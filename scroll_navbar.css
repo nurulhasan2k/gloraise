@@ -1,0 +1,32 @@
+.navbar_2_scroll{
+  background: #00A4FF;
+  padding-top: 0px;
+  display: none;
+}
+.navbar_2_scroll_links{
+  position: relative;
+  bottom: 10px;
+  color: #fff;
+  margin: 0px 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.navbar_2_scroll_ul{
+  float: none;
+width: 36%;
+margin: auto;
+
+}
+.navbar_2_scroll::before{
+  content: '';
+  width: 30px;
+  height: 30px;
+  background: #00A4FF;
+  transform: rotate(45deg);
+  display: block;
+  border-radius: 8px;
+  z-index: -1;
+  position: relative;
+  bottom: 10px;
+  left: 885px;
+}
